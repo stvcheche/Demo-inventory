@@ -14,7 +14,7 @@ $EntryId = array("saleprdctidec", "saleprccidec", "saleqntyidec");
 echo'<div id="' . $idmod . '" class="mssgtop"></div>
 <div id="' . $idmoda . '" class="Overlaya">
     <div>
-        <div id=Dlgheader class=cuul>New product</div>
+        <div id=Dlgheader class=cuul>New sale</div>
         <div id=DlgContent class=cuula>
 	     <!--Product-->
 	     <div>
